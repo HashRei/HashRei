@@ -37,4 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 👯 I'm looking to collaborate on blockchain related projects, from coding smart contracts to front-end programming everything interests me.
 
-📫 How to reach me: jumbobrave@protonmail.com
+📫 How to reach me: hashrei@protonmail.com
+
