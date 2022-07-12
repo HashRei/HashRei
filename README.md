@@ -3,10 +3,10 @@ HashRei/HashRei is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm @HashRei🔰♖ 👋
+### Hi there, I'm @HashRei♖ 👋
 ===
 
-🌱 I’m currently learning blockchain development.
+⚡Blockchain Developer⚡
 
 🛠Technologies & Tools I work with
 ---
