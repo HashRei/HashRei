@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm @HashRei♖ 👋
 ===
 
-🌵I am constantly learning new skills to surf the rough waters of the web3
+🏄‍♂️I am constantly learning new skills to surf the rough waters of the web3
 
 🛠Technologies & Tools I work with
 ---
